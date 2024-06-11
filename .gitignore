@@ -1,0 +1,5 @@
+inference-app/
+.vscode
+build/
+tests/
+datasets/
